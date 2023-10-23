@@ -54,6 +54,7 @@ obj/
 *.sdf
 *.suo
 *_BuiltData.uasset
+Unreal/Environments/Blocks/Blocks.code-workspace
 
 # Visual Studio 2015 cache/options directory
 .vs/
