@@ -1,0 +1,516 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "96C345ADEE000AEE0C15D5081153EEDAEC78AF55",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "00D6120A04B96E3A117E729FCCDBD739814CC275",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "2CF090B0D66EC94E824372A07D5FE1692A7CAC72",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7B178A71FAA1C6B1D4C62EDA45F1A88D6AA238D2",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BDE0E58A5EE07BB35208643EF678B164A3CA7481",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9EB56A85467088D4F917AB141FD6918AE5B72E8E",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "62757ED375B951001191D886AB41043F5D543349",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F76A109E0007F53CC3E40D781AA5A27A3AF649D4",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D7977576D819C10039FA87033F95838AD5FA20EF",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BAB0E20069034CE5A2F0FBB8710D04EC958C6DD6",
+			"Assets": [
+				"/AirSim/StarterContent/Particles/Materials/m_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "675B8F5A790287A2FC529024B322564D1900E3D3",
+			"Assets": [
+				"/AirSim/HUDAssets/SubWindow_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C8F1F673D02B89E3D7EAF7E201BC2B8B647D0646",
+			"Assets": [
+				"/AirSim/HUDAssets/InfraredMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0CB00051B49C8D2BC8890A8AC82381E592CD0D09",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1550FDF4635D31A34E3DB6A87F9B345E375D5D73",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7A34160CD9E87F09D29DF0CE4B64E84E5500E828",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "CEF3BF06E9B0CECC74DA31469E2A69362F33BAAC",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/AirSim/Models/MiniQuadCopter/Prop_Red_Plastic",
+				"/AirSim/Models/MiniQuadCopter/Prop_White_Plastic"
+			]
+		},
+		{
+			"ShaderMapHash": "12D51137AC4BF20C53D2703AABEBA88715F02D40",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "45B0467A00FCCBD6529A5B9EE3D9BBC372B9DA48",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B241C3E4CE84D7D3B94EBB9AE8473C453C5A12BB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "42FDBC620A94B4369A53FF9D01B0C8EAC5C9AE9F",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "CDB271B75B52642C52B4FEF7D52D4DBC94698BD9",
+			"Assets": [
+				"/AirSim/HUDAssets/SceneDepthVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7AA7AF205080F9C01B5FA41DFE174296568ADCED",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/CaliperPaint/M_Caliper"
+			]
+		},
+		{
+			"ShaderMapHash": "13E1361C4D20D19C15E430D7A41A3399F112C3E3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "E92DF23E5AA22626306E068EE134F84049D36CB9",
+			"Assets": [
+				"/AirSim/HUDAssets/SegmentationMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E6B44959087F748DD130CE1F420C79AF9380ACA6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "F78E8DEF40A0CFE4450B8B0B036ADFE04E6C078C",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "861C136CC067DD6253B812B4CD7F470A978A1C55",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Glass/Headlights"
+			]
+		},
+		{
+			"ShaderMapHash": "9F87D3CE98F711648B86F97767B6507F0312A497",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "3D16E67FE7A75EDEC5E28B3CF137813934DAB63E",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "86393D873BB9807B4179C6C378632BB7C199F083",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "608CA7BEC330D39890083AA7E73C606FD2C19814",
+			"Assets": [
+				"/AirSim/StarterContent/Particles/Materials/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "AADC77E1BCEBC0B1263A433ACB005F76148DBDDD",
+			"Assets": [
+				"/AirSim/StarterContent/Particles/Materials/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "CEEE65FE7FDCF8E404456702CE3B3149B19CEF70",
+			"Assets": [
+				"/AirSim/StarterContent/Particles/Materials/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "7498A82A4F1F5B521CA0FC65D4FFCFD113DF1F37",
+			"Assets": [
+				"/AirSim/StarterContent/Particles/Materials/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "27DEDF0BA6ABA1D07D561ED97CE585BFAFB39DE9",
+			"Assets": [
+				"/AirSim/HUDAssets/CameraDistortion"
+			]
+		},
+		{
+			"ShaderMapHash": "BA33C599CDD1A8A387F3B277897FC04C14C0E204",
+			"Assets": [
+				"/AirSim/StarterContent/Materials/M_Tech_Hex_Tile_Pulse"
+			]
+		},
+		{
+			"ShaderMapHash": "6FE523B2DE4E460A26D52878F9F0B6B5C5E9125E",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C27F2ADD1537EC564B58F0DAD52FAE9DD70EC5EF",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "81311B9808465383D8379A854168DEF4809E22B5",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "7D42C4FFCB05FB7D8EC302BA6746BE0AB4E228FC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "5FC6E8DEEFFFDEFEC2A1F4AAAE1F66F3E2E281DB",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "34CC3138022B154FE1021870EC60A5069C25ABC7",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "C234F79FB5B510894C6FD3394F8B537E320E8E6C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B62D2B39F06F188C020111C756BFD41BBF131ED6",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3AE850D44F47300146D3D66F61F63C3CC11E3C91",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "700BC57CCF4060DBC6A68F7879ACE263D2395503",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "208FF82B82286045D26F73DB909F2EB3DFEA0762",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "FA95E9D99FD50E259D35E8168DBADBF858EF186D",
+			"Assets": [
+				"/AirSim/VehicleAdv/Materials/MasterGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "5936B117C2CEEB698D47663BC1C62CC150F39B44",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2EECCF4936E438B814CC62BA5EFE83BFB5FAA81B",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "EE44A7AFA99CA050A76117A2B595CED02A80B9DD",
+			"Assets": [
+				"/AirSim/HUDAssets/DomainRandomizationMaterial",
+				"/AirSim/Models/QuadRotor1/Material_001",
+				"/AirSim/Models/QuadRotor1/Material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "70FCC1A1018550E197EF0127A2B854E6962E05FE",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "6A766747FC0701B679DE6EA3B041F0487C0CFF50",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "461A64B178FDEC5CCA1387C3249088FC9C42BB7E",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Ground_Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "3C5E4D3CCB58A6CEA1CC5780C06355CD49971AE5",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_VolumetricFogMain"
+			]
+		},
+		{
+			"ShaderMapHash": "4F4189B804D5208297C231D6F6F243A3CDF72DEE",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_VolumetricDust"
+			]
+		},
+		{
+			"ShaderMapHash": "9CC2897749A4A96CEC705DB191F1ACC7300DDA9D",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_Leaf_master"
+			]
+		},
+		{
+			"ShaderMapHash": "CF6A8D57AF046B3D9E5FC60008DFD30D77A3E416",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_RainDrop_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "20A39C0876F29844E0332A9D7A087EB0774B1F4F",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_RainSplash_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "B3F9DBCD7808ECA759AA074162ECE5501B275039",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_Ripple_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "CD5761C00D8AF2CEFA5627C52D7301082CB60FA0",
+			"Assets": [
+				"/AirSim/Weather/WeatherFX/Materials/M_SnowFlake_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "62308B3CD8913EED8D18E427643B5488DADA0F24",
+			"Assets": [
+				"/AirSim/HUDAssets/DepthPlanarMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "36C671084161931A74C4354C6BCC0C735D58204D",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "6603B5E4399696D4DCF3ED8E1A6F3CE6849B5C20",
+			"Assets": [
+				"/AirSim/HUDAssets/DepthVisMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2711E5D4C1EC5C2C3E502488507A6FF7E94F7789",
+			"Assets": [
+				"/AirSim/HUDAssets/DepthPerspectiveMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A064895D0CA61B1DD799890198AD44134A261BF4",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6B5CA903F8E17D781CCF13602CE7AFC594073430",
+			"Assets": [
+				"/AirSim/HUDAssets/DisparityMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "83B8D70B28404429F55F5A91CEF1C782115389C1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "E9C3BC56EB2DC218225F496428EB3FF98E7B42EA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "7DCDA94CCA1F6035E1B4B05889770B5E0CCB4FD5",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "57D48C4FDC83509D11505F9419D3B6BD4DD78E9C",
+			"Assets": [
+				"/AirSim/HUDAssets/CameraSensorNoise"
+			]
+		},
+		{
+			"ShaderMapHash": "BCBE5E99166D07B739CAEB983C8CBE45D052C02C",
+			"Assets": [
+				"/AirSim/Models/QuadRotor1/Material",
+				"/AirSim/Models/QuadRotor1/Material_004"
+			]
+		},
+		{
+			"ShaderMapHash": "F4DCF69D6992A4608B929F3E0187080A083C9614",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Glass/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "AA6EB76D99FAB81A1B2D1E7B23EE4E301FDCBB0B",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Rubber/M_TireRubber"
+			]
+		},
+		{
+			"ShaderMapHash": "3FE26B6894871F512B204D79191B878B7BAD5D85",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "B584F49AE7E92EBDC8F4F4D2CD3F3532F1352EAA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "79353E4D0EAB3692DCF4D9E93D59AA2F746CFDE3",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Metal/M_Metal"
+			]
+		},
+		{
+			"ShaderMapHash": "FCA70CB90C77BFF4D75B323C75C759D975321990",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Plastic/M_Plastic_Matte"
+			]
+		},
+		{
+			"ShaderMapHash": "8FD0660E218EE3268C6E58ADDC26C0E95ED063A6",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Reflector/M_Reflector"
+			]
+		},
+		{
+			"ShaderMapHash": "92FE36CC5A708C057E8C5845231F32A06B553E2A",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Leather/M_Leather"
+			]
+		},
+		{
+			"ShaderMapHash": "024E10A4B36DC8B9BE66AC7F109CBAD0FDEF26D4",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/CaliperPaint/M_Caliper_Flake"
+			]
+		},
+		{
+			"ShaderMapHash": "1B1EE8A48B152F8D4679B8067B8C66A4600835B4",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/CarPaint/M_Carpaint"
+			]
+		},
+		{
+			"ShaderMapHash": "791368E3C19B97AF96390F3198C0A9D621895431",
+			"Assets": [
+				"/AirSim/VehicleAdv/SUV/AutomotiveMaterials/Materials/Fabric/M_Fabric_ArchLiner"
+			]
+		},
+		{
+			"ShaderMapHash": "F0F1E3F8BB931F6A36ED0DB2A05F8C104D6BB2D5",
+			"Assets": [
+				"/Game/StarterContent/Materials/M_Brick_Hewn_Stone"
+			]
+		}
+	]
+}

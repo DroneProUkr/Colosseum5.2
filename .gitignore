@@ -35,11 +35,13 @@ CMakeCache.txt
 #Unreal Engine
 /UnrealEngine
 StarterContent/
-Saved/
 !DefaultEditorPerProjectUserSettings.ini #contains use less CPU setting
 Binaries/
 Build/
 Debug/
+Unreal/Environments/Blocks/Saved/Crashes/
+Unreal/Environments/Blocks/Saved/Logs/
+Unreal/Environments/Blocks/Saved/Temp/
 Intermediate/
 DerivedDataCache/
 UnrealHeaderTool/
@@ -279,7 +281,6 @@ ModelManifest.xml
 /AirLib/cmake_install.cmake
 /MavLinkCom/lib/libMavLinkCom.a
 /Unreal/Plugins/AirSim/Source/AirLib/
-/Unreal/Environments/Blocks/Plugins/AirSim/
 /enc_temp_folder
 /cmake/MavLinkCom/MavLinkTest/MavLinkTest
 /cmake/MavLinkCom/lib/libMavLinkCom.a
