@@ -42,6 +42,12 @@ Debug/
 Unreal/Environments/Blocks/Saved/Crashes/
 Unreal/Environments/Blocks/Saved/Logs/
 Unreal/Environments/Blocks/Saved/Temp/
+Unreal/Environments/Blocks/Saved/Cooked/
+Unreal/Environments/Blocks/Saved/Config/CrashReportClient/
+Unreal/Environments/Blocks/Saved/MaterialStats/
+Unreal/Environments/Blocks/Saved/MaterialStatsDebug/
+Unreal/Environments/Blocks/Saved/StagedBuilds/
+Unreal/Environments/Blocks/Saved/ShaderDebugInfo/
 Intermediate/
 DerivedDataCache/
 UnrealHeaderTool/
